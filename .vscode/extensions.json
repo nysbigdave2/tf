@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "hashicorp.terraform",
+        "4ops.terraform",
+        "ms-azuretools.vscode-azureterraform",
+        "pjmiravalle.terraform-advanced-syntax-highlighting"
+    ]
+}
